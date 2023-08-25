@@ -1,2 +1,2 @@
 # UFF
- tudo do curso de ciência da computação na uff
+ tudo de ciência da computação na uff
